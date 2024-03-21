@@ -1,3 +1,6 @@
+![image](https://github.com/Dewansh31/Education-app-rn/assets/97904955/c5874307-1685-49c3-bb32-f928013ce191)
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
